@@ -1,0 +1,16 @@
+build/
+sdkconfig.old
+.vscode/
+.idea/
+.ccls-cache/
+compile_commands.json
+
+
+# pastas cache comuns
+cache/
+**/cache/
+.cache/
+**/.cache/
+
+# arquivos “backup” (~ no final)
+*~
